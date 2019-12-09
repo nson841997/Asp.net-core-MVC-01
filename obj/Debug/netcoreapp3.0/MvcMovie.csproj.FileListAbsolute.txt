@@ -148,3 +148,4 @@ C:\Users\Asus\source\repos\MvcMovie\obj\Debug\netcoreapp3.0\Razor\Views\Movies\D
 C:\Users\Asus\source\repos\MvcMovie\obj\Debug\netcoreapp3.0\Razor\Views\Movies\Details.cshtml.g.cs
 C:\Users\Asus\source\repos\MvcMovie\obj\Debug\netcoreapp3.0\Razor\Views\Movies\Edit.cshtml.g.cs
 C:\Users\Asus\source\repos\MvcMovie\obj\Debug\netcoreapp3.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\Asus\source\repos\MvcMovie\obj\Debug\netcoreapp3.0\Razor\Views\Upload\Index.cshtml.g.cs
